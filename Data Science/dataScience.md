@@ -74,3 +74,42 @@ To test your programming skills, employers will ask two things during their data
 
 **Answer**: This depends on what you are good with, but I would personally chose Python for data science.
 
+2. What are some pros and cons about your favorite statistical software?
+
+**Answer**:
+
+#### Advantages
+* Python is easy to learn for even a novice developer. Its code is easy to read and you can do a lot of things just by looking at it. Also, you can execute a lot of complex functionalities with ease, thanks to the standard library.
+
+* Supports multiple systems and platforms.
+
+* Object Oriented Programming-driven.
+
+* With the introduction of Raspberry Pi, a card sized microcomputer, Python has expanded its reach to unprecedented heights. Developers can now build cameras, radios and games with ease. So, learning Python could open new avenues for you to create some out-of-the box gadgets.
+
+* Python has a plethora of frameworks that make web programming very flexible. Django is the most famous Python framework for web development.
+
+* Gives rise to quick development by using less code. Even a small team can handle Python effectively.
+
+* Allows to scale even the most complex applications with ease.
+
+* A large number of resources are available for Python.
+
+* Offers a built in testing framework to set debugging time and enable fastest workflows.
+
+* IT giants like Yahoo, Google, IBM, NASA, Nokia and Disney prefer Python.
+
+#### Disadvantages
+
+* Python is slow
+
+* Python is not a very good language for mobile development
+
+* Python is not a good choice for memory intensive tasks
+
+* It's near impossible to build a high-graphic 3D game using Python
+
+* Has limitations with database access
+
+* Python is not good for multi-processor/multi-core work
+
