@@ -65,3 +65,12 @@ Systematic: Chooses subjects in a systematic (i.e. orderly / logical) way from t
 </p>
 
 where P(x) is the probability of x successes out of N trials, N is the number of trials, and π is the probability of success on a given trial.
+
+## Programming <a name="programming"></a>
+To test your programming skills, employers will ask two things during their data science interview questions: they’ll ask how you would solve programming problems in theory without writing out the code, and then they will also offer whiteboarding exercises for you to code on the spot.
+
+### General <a name="general"></a>
+1. With which programming languages and environments are you most comfortable working?
+
+**Answer**: This depends on what you are good with, but I would personally chose Python for data science.
+
