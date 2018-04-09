@@ -37,3 +37,6 @@ Systematic: Chooses subjects in a systematic (i.e. orderly / logical) way from t
 
 **Answer**: Type I is the incorrect rejection of a true null hypothesis. Type II is the failure to reject a false null hypothesis.
 
+4. What is linear regression? What do the terms P-value, coefficient, R-Squared value mean? What is the significance of each of these components?
+
+**Answer**: **Linear regression** is an analysis that assesses whether one or more predictor variables explain the dependent (criterion) variable. The **p-value** for each term tests the null hypothesis that the coefficient is equal to zero (no effect). A low p-value (< 0.05) indicates that you can reject the null hypothesis. In other words, a predictor that has a low p-value is likely to be a meaningful addition to your model because changes in the predictor's value are related to changes in the response variable. **Regression coefficients** represent the mean change in the response variable for one unit of change in the predictor variable while holding other predictors in the model constant. **R-squared** is a statistical measure of how close the data are to the fitted regression line. It is also known as the coefficient of determination, or the coefficient of multiple determination for multiple regression.
