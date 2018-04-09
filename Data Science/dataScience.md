@@ -33,3 +33,7 @@ Opportunity: Basically based on convenience
 
 Systematic: Chooses subjects in a systematic (i.e. orderly / logical) way from the target population, like every nth participant on a list of names.
 
+3. What is the difference between Type I vs Type II error?
+
+**Answer**: Type I is the incorrect rejection of a true null hypothesis. Type II is the failure to reject a false null hypothesis.
+
