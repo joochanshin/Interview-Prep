@@ -49,3 +49,14 @@ Systematic: Chooses subjects in a systematic (i.e. orderly / logical) way from t
 
 **Answer**: Basically, an interaction is when the effect of one factor (input variable) on the dependent variable (output variable) differs among levels of another  factor.
 
+7. What is selection bias?
+
+**Answer**: Selection bias is the bias introduced by the selection of individuals, groups or data for analysis in such a way that proper randomization is not achieved, thereby ensuring that the sample obtained is not representative of the population intended to be analyzed.
+
+8. What is an example of a dataset with a non-Gaussian distribution?
+
+**Answer**: The Maxwell-Boltzmann distribution is a probability distribution mainly used in physics and statistical mechanics. The distribution, which describes the kinetic energy of air particles in a particular sample, was devised by James C. Maxwell and Ludwig Boltzmann.
+
+9. What is the Binomial Probability Formula?
+
+**Answer**: 
