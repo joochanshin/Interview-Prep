@@ -60,3 +60,8 @@ Systematic: Chooses subjects in a systematic (i.e. orderly / logical) way from t
 9. What is the Binomial Probability Formula?
 
 **Answer**: 
+<p align="center">
+  <img width="250" height="80" src="https://raw.githubusercontent.com/joochanshin/Interview-Prep/master/Data%20Science/img/SS1.png">
+</p>
+
+where P(x) is the probability of x successes out of N trials, N is the number of trials, and π is the probability of success on a given trial.
