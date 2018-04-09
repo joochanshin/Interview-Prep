@@ -45,3 +45,7 @@ Systematic: Chooses subjects in a systematic (i.e. orderly / logical) way from t
 
 **Answer**: There are four major assumptions: 1. There is a linear relationship between the dependent variables and the regressors, meaning the model you are creating actually fits the data, 2. The errors or residuals of the data are normally distributed and independent from each other, 3. There is minimal multicollinearity between explanatory variables, and 4. Homoscedasticity. This means the variance around the regression line is the same for all values of the predictor variable.
 
+6. What is a statistical interaction?
+
+**Answer**: Basically, an interaction is when the effect of one factor (input variable) on the dependent variable (output variable) differs among levels of another  factor.
+
