@@ -76,7 +76,7 @@ To test your programming skills, employers will ask two things during their data
 
 2. What are some pros and cons about your favorite statistical software?
 
-**Answer**:
+**Answer**: This is for Python
 
 #### Advantages
 * Python is easy to learn for even a novice developer. Its code is easy to read and you can do a lot of things just by looking at it. Also, you can execute a lot of complex functionalities with ease, thanks to the standard library.
