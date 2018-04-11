@@ -113,3 +113,14 @@ To test your programming skills, employers will ask two things during their data
 
 * Python is not good for multi-processor/multi-core work
 
+3. Tell me about an original algorithm you've created.
+
+**Answer**: Come up with your own answer. I would most likely talk about my Sudoku algorithm.
+
+4. Describe a data science project in which you worked with a substantial programming component. What did you learn from that experience?
+
+**Answer**: Work on project
+
+5. Do you contribute to any open source projects?
+
+**Answer**: For me it would have to be no, but it shouldn't be or talk about an open source project in the past.
