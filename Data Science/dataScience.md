@@ -130,3 +130,13 @@ To test your programming skills, employers will ask two things during their data
 **Answer**: https://www.r-bloggers.com/a-data-cleaning-example/
 
 7. Tell me about the coding you did during your last project?
+
+**Answer**: Work on data project and talk about it.
+
+### Big Data
+
+1. What are the two main components of the Hadoop Framework?
+
+2. Explain how MapReduce works as simply as possible.
+
+
