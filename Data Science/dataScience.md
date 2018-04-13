@@ -119,7 +119,7 @@ To test your programming skills, employers will ask two things during their data
 
 4. Describe a data science project in which you worked with a substantial programming component. What did you learn from that experience?
 
-**Answer**: Work on project
+**Answer**: https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 
 5. Do you contribute to any open source projects?
 
