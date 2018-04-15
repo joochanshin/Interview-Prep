@@ -137,7 +137,10 @@ https://opensource.google.com/projects/angulardart
 ### Big Data
 
 1. What are the two main components of the Hadoop Framework?
-
+    1. MapReduce – A software programming model for processing large sets of data in parallel
+    2. HDFS* – The Java-based distributed file system that can store all kinds of data without prior organization.
+    3. YARN – A resource management framework for scheduling and handling resource requests from distributed applications.
+    * HDFS – could be neglected if only asked for two
 2. Explain how MapReduce works as simply as possible.
 
 
